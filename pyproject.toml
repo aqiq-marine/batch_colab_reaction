@@ -9,6 +9,7 @@ dependencies = [
     "fairchem-core",
     "ase",
     "numpy",
+    "logging"
 ]
 
 [tool.setuptools]
