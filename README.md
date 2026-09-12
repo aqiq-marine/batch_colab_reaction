@@ -1,3 +1,8 @@
+## Notebook
+
+複数の反応についてTSを計算するjupyter notebookです。
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aqiq-marine/batch_colab_reaction/blob/main/ts_calc_batch.ipynb)
+
 ## Library
 
 反応ファイルの探索と DMF/UMA 計算は `batch_colab_reaction` から利用できます。
